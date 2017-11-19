@@ -2,8 +2,10 @@
 my brewfile
 
 ### How to use
+
 >$ brew tap Homebrew/bundle
->$ brew bundles
+
+>$ brew bundle
 
 ### How to make Brewfile
 >$ brew bundle dump
